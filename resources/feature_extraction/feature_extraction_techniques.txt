@@ -1,0 +1,8 @@
+ local Binary Patterns (LBP)
+ BSIF
+ Kernel PCA
+ HOG
+ Color features
+ SIFT
+ SURF
+ ORB

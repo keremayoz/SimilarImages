@@ -1,0 +1,11 @@
+https://janzhou.org/learn/lsh.html
+
+https://towardsdatascience.com/fast-near-duplicate-image-search-using-locality-sensitive-hashing-d4c16058efcb
+
+https://towardsdatascience.com/locality-sensitive-hashing-for-music-search-f2f1940ace23
+
+https://en.wikipedia.org/wiki/VisualRank#mw-head
+
+http://tylerneylon.com/a/lsh1/lsh_post1.html
+
+http://answers.opencv.org/question/94516/locality-sensitivy-hashing-in-opencv-for-image-processing/

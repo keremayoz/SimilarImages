@@ -1,0 +1,5 @@
+http://aishack.in/tutorials/image-convolution-examples/
+
+http://setosa.io/ev/image-kernels/
+
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_sift_intro/py_sift_intro.html
