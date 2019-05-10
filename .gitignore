@@ -3,6 +3,8 @@ __pycache__/
 data/
 dataset_all/
 src/cache/
+src/cnn/
+src/sobel/
 *.py[cod]
 *$py.class
 
