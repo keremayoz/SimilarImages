@@ -5,6 +5,7 @@ dataset_all/
 src/cache/
 src/cnn/
 src/sobel/
+src/cnn_2/
 *.py[cod]
 *$py.class
 
